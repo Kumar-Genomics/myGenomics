@@ -1,2 +1,2 @@
-# myGenomics
-Genomics Hands-on Hub
+# Genomics Hands-on Hub
+
